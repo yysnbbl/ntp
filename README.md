@@ -1,0 +1,2 @@
+# ntp
+Nesne Tabanlı Programlama
